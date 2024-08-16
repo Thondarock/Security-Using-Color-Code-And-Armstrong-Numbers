@@ -2,7 +2,7 @@
 Encryption And Decryption
 
 Install Dependencies
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 Execute
 python Security.py
